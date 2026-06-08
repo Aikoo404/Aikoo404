@@ -33,4 +33,9 @@ Currently building cool stuff and learning every day.
 - [ ] Become a Fullstack Developer
 
 ---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Aikoo404/Aikoo404/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
