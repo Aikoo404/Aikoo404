@@ -33,9 +33,4 @@ Currently building cool stuff and learning every day.
 - [ ] Become a Fullstack Developer
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aikoo404/Aikoo404/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aikoo404/Aikoo404/output/pacman-contribution-graph.svg">
-</picture>
-
 </div>
