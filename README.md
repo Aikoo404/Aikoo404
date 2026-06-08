@@ -33,17 +33,4 @@ Currently building cool stuff and learning every day.
 - [ ] Become a Fullstack Developer
 
 ---
-
-## 📂 Featured Project
-
-### 💰 Sisihin Yuk
-
-A simple savings tracker website designed to help people manage their money little by little.
-
----
-
-<div align="center">
-
-"Small progress is still progress."
-
 </div>
